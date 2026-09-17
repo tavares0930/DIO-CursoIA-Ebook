@@ -1,24 +1,40 @@
 # CHEAT-MÓVEIS
 ## O código para começar a fazer seus próprios móveis
-### Vol. 1 – começando do zero
+### Vol. 1 — começando do zero
 
-Projeto criado como parte do curso de introdução à Inteligência Artificial da DIO, com o objetivo de produzir um ebook totalmente com apoio de IA.
-
-Este livro foi desenvolvido com a proposta de ensinar jovens iniciantes a montar móveis em casa usando materiais acessíveis, como MDF, MDP, metalon, solda simples e ferramentas básicas.
+Projeto 2 do curso de introdução à Inteligência Artificial da DIO, realizado com o objetivo de criar um ebook totalmente apoiado por IA. A estrutura do conteúdo foi desenvolvida com ChatGPT, as imagens foram geradas com Midjourney e a montagem visual foi feita no PowerPoint.
 
 ## Sobre o projeto
 
-O tema central é transformar o processo de construção de móveis em algo simples, prático e intuitivo, como se fosse um "passo a passo de um post-it": fácil de ler, lembrar e executar.
+Este projeto foi pensado como uma forma prática e didática de ensinar jovens iniciantes a montar móveis em casa, usando materiais simples e acessíveis, como MDF, MDP, metalon, solda básica e ferramentas essenciais.
 
-O ebook foi pensado para pessoas que querem começar do zero, sem precisar de um ambiente profissional, com foco em projetos simples, acessíveis e funcionais.
+A ideia central do ebook é transformar o processo de construção de móveis em algo simples, intuitivo e fácil de seguir — como se fosse um conjunto de instruções em formato “passo a passo” para quem está começando do zero.
 
 ## Objetivo
 
-- ensinar construção de móveis de maneira didática;
+- ensinar a construção de móveis de maneira acessível;
 - mostrar que é possível criar peças úteis em casa;
-- usar materiais simples e acessíveis;
-- incentivar o aprendizado prático em marcenaria/carpintaria;
-- apresentar projetos com instruções e materiais bem definidos.
+- utilizar materiais simples e de baixo custo;
+- incentivar o aprendizado prático em marcenaria e carpintaria;
+- apresentar projetos funcionais com instruções claras.
+
+## Conteúdo do ebook
+
+O material aborda uma abordagem prática para a criação de móveis, com foco em projetos acessíveis e fáceis de reproduzir em casa. Entre os temas principais, estão:
+
+- bancada e mesa de trabalho;
+- organização de ambientes domésticos;
+- construção com estrutura simples;
+- uso de materiais básicos e de fácil aquisição;
+- montagem, acabamento e dicas de segurança.
+
+Cada projeto inclui:
+
+- lista de materiais;
+- ferramentas necessárias;
+- sugestões de compra;
+- passo a passo de montagem;
+- dicas de acabamento e organização.
 
 ## Estrutura do repositório
 
@@ -27,51 +43,37 @@ DIO-CursoIA-Ebook/
 ├── README.md
 ├── prompts/
 │   └── prompts.md
-├── ebook/
-│   └── (arquivo do ebook em PDF ou outros formatos)
-└── imagens/
-    └── (imagens e capas do projeto)
+├── dio_tarefa_2_ebook.pdf
+└── (outros materiais e arquivos complementares, quando adicionados)
 ```
 
-## Conteúdo do ebook
+## Arquivo do ebook
 
-O livro aborda uma abordagem prática para criação de móveis, com foco em 5 projetos iniciais, incluindo:
+O ebook final está disponível em:
 
-- bancada / mesa de trabalho;
-- móvel funcional para organização;
-- projeto de acabamento e uso doméstico;
-- montagem com estrutura simples;
-- construção com materiais acessíveis e ferramentas básicas.
-
-Cada projeto inclui:
-
-- lista de materiais;
-- ferramentas necessárias;
-- sugestões de compra;
-- passo a passo de montagem;
-- dicas de segurança e acabamento.
-
-## Ferramentas utilizadas
-
-- ChatGPT para geração de texto e estrutura do livro;
-- Midjourney para criação das imagens ilustrativas;
-- PowerPoint para organização visual do ebook.
+- [dio_tarefa_2_ebook.pdf](dio_tarefa_2_ebook.pdf)
 
 ## Prompts utilizados
 
-Os prompts usados na criação do ebook e nas imagens estão disponíveis em:
+Os prompts utilizados para a criação do texto e das imagens do projeto estão disponíveis em:
 
 - [prompts/prompts.md](prompts/prompts.md)
 
-## Como usar este repositório
+## Ferramentas utilizadas
 
-1. Acesse a pasta `ebook/` para localizar o material final do livro.
-2. Consulte `prompts/prompts.md` para ver os prompts utilizados.
-3. Use este README como apresentação do projeto no GitHub.
+- ChatGPT para geração de texto e estrutura do conteúdo;
+- Midjourney para criação das imagens ilustrativas;
+- PowerPoint para organização visual e montagem final do ebook.
+
+## Como visualizar o projeto
+
+1. Baixe ou clone este repositório.
+2. Abra o arquivo [dio_tarefa_2_ebook.pdf](dio_tarefa_2_ebook.pdf) para ler o ebook completo.
+3. Consulte [prompts/prompts.md](prompts/prompts.md) para ver os prompts utilizados no processo de criação.
 
 ## Observações
 
-Este projeto foi desenvolvido como material didático e de portfólio, com foco em aprendizado de IA aplicada à criação de conteúdo e material visual.
+Este projeto foi desenvolvido como parte de um exercício didático do curso de Inteligência Artificial da DIO, com foco em demonstração prática da aplicação de IA na criação de conteúdo editorial e visual.
 
 ## Autor
 
@@ -79,4 +81,4 @@ Tavares0930
 
 ## Licença
 
-Este projeto é compartilhado com fins de estudo e apresentação do trabalho desenvolvido no curso.
+Este projeto é compartilhado para fins de estudo, apresentação e portfólio pessoal, com foco em aprendizado e desenvolvimento prático.
